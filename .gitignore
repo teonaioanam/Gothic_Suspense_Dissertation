@@ -1,0 +1,17 @@
+# PyCharm files
+.idea/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+
+# Logs
+*.log
+
+# Virtual environments
+.env
